@@ -1,0 +1,17 @@
+/*general fonts*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/*button*/
+.btn.btn-primary {
+    background-color: #2155CD;
+    border-color: #2155CD;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
