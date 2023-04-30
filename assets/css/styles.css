@@ -62,3 +62,42 @@ a.nav-link:hover {
     --bs-navbar-toggler-border-color: #e6e6e6;
     margin-right: 10px;
 }
+
+/*home banner*/
+.card.text-bg-dark {
+    box-shadow: none;
+    margin-top: 0px;
+    --bs-card-border-color: none;
+    --bs-card-border-width: none;
+    --bs-card-border-radius: none;
+}
+
+.text-bg-dark {
+    text-shadow: 3px 1px 2px #000;
+
+}
+
+.card-img-overlay {
+    top: 320px !important;
+    left: 180px !important;
+}
+
+/*animates zoom effect on home banner*/
+.card-img {
+    animation-name: banner-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+
+/*creates the level of zoom for home banner image*/
+@keyframes banner-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+
+    }
+}
