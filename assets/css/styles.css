@@ -97,7 +97,6 @@ a.nav-link:hover {
 
     to {
         transform: scale(1.1);
-
     }
 }
 
@@ -106,4 +105,36 @@ a.nav-link:hover {
     background-color: #e6e6e6;
     padding-top: 20px;
     padding-bottom: 30px;
+}
+
+/*explore section*/
+#landing-explore {
+    padding-top: 20px;
+}
+
+.explore-section {
+    padding-bottom: 20px;
+}
+
+/*cards in the explore section*/
+.card {
+    box-shadow: 5px 5px 5px 3px rgba(33, 85, 205, 0.62);
+    margin-top: 20px;
+}
+
+.card-title {
+    font-size: 1.2rem;
+}
+
+.card-body {
+    background-color: #e6e6e6;
+}
+
+.card-text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.card-footer {
+    background-color: #e6e6e6 !important;
+    border: none !important;
 }
