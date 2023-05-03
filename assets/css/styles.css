@@ -147,3 +147,20 @@ a.nav-link:hover {
 .carousel {
     box-shadow: 5px 5px 5px 3px rgba(33,85,205,0.62);
 }
+
+/*contact section*/
+#landing-contact {
+    background-color: #e6e6e6;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.form-label,
+.form-check-label {
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+
+#submit-button,
+.form-check {
+    margin-top: 10px;
+}
