@@ -193,3 +193,19 @@ a.footer-link:hover {
         top: 120px !important;
     }
 }
+
+/*for medium screens size from 767px wide and down*/
+@media screen and (max-width: 767px) {
+    .card-img-overlay {
+        top: 80px !important;
+        left: 80px !important;
+    }
+}
+
+/*for medium screens size from 590px wide and down*/
+@media screen and (max-width: 590px) {
+    .card-img-overlay {
+        top: 40px !important;
+        left: 50px !important;
+    }
+}
