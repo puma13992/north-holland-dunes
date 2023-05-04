@@ -164,3 +164,23 @@ a.nav-link:hover {
 .form-check {
     margin-top: 10px;
 }
+
+/*footer section*/
+.footer-section {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    background-color: #2155CD;
+}
+
+.footer-link {
+    color: #e6e6e6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a.footer-link {
+    text-decoration: none;
+}
+
+a.footer-link:hover {
+    text-decoration: underline;
+}
