@@ -209,3 +209,22 @@ a.footer-link:hover {
         left: 50px !important;
     }
 }
+
+/*for small screens size from 420px wide and down*/
+@media screen and (max-width: 420px) {
+    .card-img-overlay {
+        top: 15px !important;
+        left: 50px !important;
+    }
+
+    .card-img-overlay .btn.btn-primary {
+        display: none !important;
+    }
+}
+
+/*for small screens size from 280px wide and down*/
+@media (max-width: 280px) {
+    .card-img-overlay {
+        display: none;
+    }
+}
