@@ -184,3 +184,12 @@ a.footer-link {
 a.footer-link:hover {
     text-decoration: underline;
 }
+
+/*media queries*/
+
+/*for lager to medium screens size from 1350px wide and down*/
+@media screen and (max-width: 1350px) {
+    .card-img-overlay {
+        top: 120px !important;
+    }
+}
