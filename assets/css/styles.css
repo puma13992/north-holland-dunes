@@ -38,6 +38,10 @@ p {
     box-shadow: inset 0px -9px 24px -3px rgba(230, 230, 230, 0.74);
 }
 
+.nav {
+    margin-bottom: 10px !important;
+}
+
 .navbar-expand-md .navbar-collapse {
     padding-left: 75px;
     justify-content: flex-end;
