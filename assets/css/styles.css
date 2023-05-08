@@ -227,8 +227,8 @@ a.footer-link:hover {
     }
 }
 
-/*for small screens size from 280px wide and down*/
-@media (max-width: 280px) {
+/*for small screens size from 360px wide and down*/
+@media (max-width: 360px) {
     .card-img-overlay {
         display: none;
     }
