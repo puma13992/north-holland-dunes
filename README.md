@@ -11,9 +11,11 @@ This site is intended to give a first impression of the beauty of the North-Holl
 - __Navigation Bar__
   - The navigation bar contains links to all five sections of the site: the logo leads to the Landing page image section, the other links respectively to the About section, Explore section, Impressions section and Contact section.
   - This section will allow the user to easily navigate from section to section across all devices.
-  - The navigation bar is fully responsive. On smaller devices, the hamburger menu appears with an exmanded menu bar.
+  - The navigation bar is fully responsive. On smaller devices, the hamburger menu appears with an expanded menu bar.
 
-![Nav Bar](assets/images/readme/screenshot-navigation-bar.JPG)
+![Nav Bar Desktop](assets/images/readme/screenshot-navigation-bar.JPG)
+![Nav Bar Mobile Closed](assets/images/readme/screenshot-mobile-menu-closed.JPG)
+![Nav Bar Mobile Open](assets/images/readme/screenshot-mobile-menu-open.JPG)
 
 - __Landing page image__
   - The landing includes a photograph with text overlay that shows the goal of the whole website "Dunes in North-Holland Explore the beauty" and to allow the user to jump to the explore section with a button.
@@ -37,7 +39,7 @@ This site is intended to give a first impression of the beauty of the North-Holl
   - The impressions section shows three panorama pictures with a slider to show the user the beauty once again.
   - The user can control the slides himself with the navigation elements or watch the slides change automatically.
 
-![Impressions section](assets/images/readme/screenshot-slider.JPG)
+![Impressions section](assets/images/readme/screenshot-contact-section.JPG)
 
 - __Contact section__
   - The Contact section allows the user to get in touch with us, ask questions or book a hiking route with a guide.
@@ -83,9 +85,11 @@ This site is intended to give a first impression of the beauty of the North-Holl
 - The contact form does not send any requests yet.
 
 ## Testing
+
 The W3C Markup Validator and W3C CSS Validator Services were used to validate the pages to ensure there were no syntax errors in the project.
 
 ### Validator Testing
+
 - __HTML__
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fpuma13992.github.io%2Fnorth-holland-dunes%2F) and for the privacy policy page [W3C validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fpuma13992.github.io%2Fnorth-holland-dunes%2Fprivacy.html)
 
@@ -95,6 +99,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
 Google Lighthouse was used to test Performance, Best Practices, Accessibility and SEO on both Desktop and Mobile devices.
 
 The testing was done using the Google Chrome Browser. Chrome Developer Tools was used extensively, particularly to check responsiveness on different screen sizes. Testing was also done using Edge and Firefox on desktop, and again on an iPad Mini and iPhone using Safari.
+
 - Responsive on all device sizes between 280px - 2600px wide
 - Devices tested using the Google Developer Tools emulator:
   - iPhone SE (375x667px)
@@ -118,3 +123,20 @@ The testing was done using the Google Chrome Browser. Chrome Developer Tools was
   ![Mobile Results](assets/images/readme/screenshot-mobile-lighthouse.JPG)
 
 ### Unfixed bugs
+
+There are no unfixed bugs.
+
+## Deployment
+
+The website development was created in the "main" branch. This branch was deployed using GitHub Pages.
+
+- This site was deployed by completing the following steps:
+
+1. Open [GitHub](https://github.com/).
+2. Click on the project to be deployed.
+3. Navigate to the "Settings".
+4. Navigate down to the "GitHub Pages".
+5. Select the "main" branch and select "Save".
+6. The link to the live website was ready on the top.
+
+The live link can be found here - https://github.com/puma13992/north-holland-dunes
