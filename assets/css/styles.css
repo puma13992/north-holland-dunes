@@ -165,6 +165,10 @@ a.nav-link:hover {
     font-family: Georgia, 'Times New Roman', Times, serif !important;
 }
 
+.form-check-label a {
+    color: #000;
+}
+
 #submit-button,
 .form-check {
     margin-top: 10px;
