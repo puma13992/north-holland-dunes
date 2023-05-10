@@ -84,6 +84,24 @@ This site is intended to give a first impression of the beauty of the North-Holl
 - Currently, no Hiking Routes appear when you click on the Hiking Routes button.
 - The contact form does not send any requests yet.
 
+## Technologies used
+
+### Languages used
+
+- HTML5
+- CSS
+
+### Frameworks - Libraries - Programs Used
+
+- [Bootstrap v5.3.0-alpha3](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+  - Bootstrap to use prebuilt grid system and components, like buttons and nav bars.
+- [Font Awesome](https://fontawesome.com/)
+  - Font Awesome are used for the instagram icon.
+- [Git](https://git-scm.com/)
+  - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+- [Github](https://github.com/)
+  - GitHub is used to store the project's code after being pushed from Git.
+
 ## Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate the pages to ensure there were no syntax errors in the project.
