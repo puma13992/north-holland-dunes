@@ -167,6 +167,8 @@ The live link can be found here - [Live Website](https://github.com/puma13992/no
   - [Noordhollandse Duinen](https://www.noordhollandseduinen.nl/)
   - [PWN](https://www.pwn.nl/noordhollands-duinreservaat)
   - [Holland boven Amsterdam](https://www.hollandbovenamsterdam.com/details/nl/noord-hollands-duinreservaat--4fba7d63-301b-425a-afcf-6bfc26c6d89f)
+- Instructions on how to implement form validation for the contact form and the zoom in for the landing page image was taken from the Love Running project from [Code Institute](https://codeinstitute.net/).
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/).
 
 ### Media
 
