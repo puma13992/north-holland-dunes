@@ -226,14 +226,14 @@ a.footer-link:hover {
         left: 50px !important;
     }
 
-    .btn.btn-primary {
+    .card-img-overlay .btn.btn-primary {
         display: none !important;
     }
 }
 
 /*for small screens size from 360px wide and down*/
 @media (max-width: 360px) {
-    .card-img-overlay, .btn.btn-primary {
+    .card-img-overlay .btn.btn-primary {
         display: none;
     }
 }
