@@ -81,7 +81,7 @@ This site is intended to give a first impression of the beauty of the North-Holl
 
 ### Features Left to Implement
 
-- Currently, no Hiking Routes appear when you click on the Hiking Routes button.
+- Currently, no Hiking Routes appear when you click on the hiking routes button.
 - The contact form does not send any requests yet.
 
 ## Technologies used
@@ -109,10 +109,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate th
 ### Validator Testing
 
 - __HTML__
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fpuma13992.github.io%2Fnorth-holland-dunes%2F) and for the privacy policy page [W3C validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fpuma13992.github.io%2Fnorth-holland-dunes%2Fprivacy.html)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fpuma13992.github.io%2Fnorth-holland-dunes%2Findex.html) and for the privacy policy page [W3C validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fpuma13992.github.io%2Fnorth-holland-dunes%2Fprivacy.html)
 
 - __CSS__
-  - No errors were found when copy the styles.css in the official Jigsaw validator but when running the link, some issues showed up from the external libraries Font Awesome and Bootstrap [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fpuma13992.github.io%2Fnorth-holland-dunes%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=de)
+  - No errors were found when copy the styles.css in the official Jigsaw validator but when running the link, some issues showed up from the external libraries Font Awesome and Bootstrap [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fpuma13992.github.io%2Fnorth-holland-dunes%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=de)
 
 Google Lighthouse was used to test Performance, Best Practices, Accessibility and SEO on both Desktop and Mobile devices.
 
@@ -157,4 +157,17 @@ The website development was created in the "main" branch. This branch was deploy
 5. Select the "main" branch and select "Save".
 6. The link to the live website was ready on the top.
 
-The live link can be found here - https://github.com/puma13992/north-holland-dunes
+The live link can be found here - [Live Website](https://github.com/puma13992/north-holland-dunes)
+
+## Credits
+
+### Content
+
+- The texts were taken from the following pages and translated into English:
+  - [Noordhollandse Duinen](https://www.noordhollandseduinen.nl/)
+  - [PWN](https://www.pwn.nl/noordhollands-duinreservaat)
+  - [Holland boven Amsterdam](https://www.hollandbovenamsterdam.com/details/nl/noord-hollands-duinreservaat--4fba7d63-301b-425a-afcf-6bfc26c6d89f)
+
+### Media
+
+- All photos are original, taken by me.
