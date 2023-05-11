@@ -245,26 +245,26 @@
             <h2 class="fw-semibold col-12">Contact</h2>
             <p>Do you want more information about the dunes? Or do you want to book a route with a guide? Please feel
                 free to contact us.</p>
-            <form method="post" enctype="text/plain" class="row">
+            <form method="post" action="https://formdump.codeinstitute.net/" enctype="text/plain" class="row">
                 <div class="col-lg-6">
                     <label for="firstName" class="form-label">First name</label>
-                    <input type="text" id="firstName" class="form-control" aria-label="First name">
+                    <input type="text" id="firstName" class="form-control" aria-label="First name" required>
                 </div>
                 <div class="col-lg-6">
                     <label for="lastName" class="form-label">Last name</label>
-                    <input type="text" id="lastName" class="form-control" aria-label="Last name">
+                    <input type="text" id="lastName" class="form-control" aria-label="Last name" required>
                 </div>
                 <div class="col-12">
                     <label for="email" class="form-label">Email Address</label>
-                    <input type="email" id="email" class="form-control">
+                    <input type="email" id="email" class="form-control" required>
                 </div>
                 <div class="col-12">
                     <label for="message" class="form-label">Message</label>
-                    <textarea class="form-control" id="message" rows="3"></textarea>
+                    <textarea class="form-control" id="message" rows="3" required></textarea>
                 </div>
                 <div class="col-12">
                     <div class="form-check">
-                        <input class="form-check-input" type="checkbox" id="gridCheck">
+                        <input class="form-check-input" type="checkbox" id="gridCheck" required>
                         <label class="form-check-label" for="gridCheck">
                             I agree to the <a href="privacy.html">Privacy policy</a>.</label>
                     </div>
