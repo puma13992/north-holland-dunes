@@ -1,6 +1,6 @@
 # North-Holland Dunes
 
-This site is intended to give a first impression of the beauty of the North-Holland dunes and to encourage you to explore the very diverse hiking routes and perhaps even book a guide for a guided walk with more information.
+This site is intended to give a first impression of the beauty of the North-Holland dunes and to encourage to explore the very diverse hiking routes and perhaps even book a guide for a guided walk.
 
 ![Noth-Holland Dunes](assets/images/readme/mock-up-screens.JPG)
 
@@ -18,38 +18,38 @@ This site is intended to give a first impression of the beauty of the North-Holl
 ![Nav Bar Mobile Open](assets/images/readme/screenshot-mobile-menu-open.JPG)
 
 - __Landing page image__
-  - The landing includes a photograph with text overlay that shows the goal of the whole website "Dunes in North-Holland Explore the beauty" and to allow the user to jump to the explore section with a button.
-  - This section introduces the user to Dunes in North-Holland with an eye catching animation to grab their attention.
+  - The landing page includes an image with text overlay that shows the goal of the whole website "Dunes in North-Holland Explore the beauty" and to allow the user to jump to the Explore section with a button.
+  - This section introduces the user to the website with an eye catching animation to grab their attention.
 
 ![Landing page image](assets/images/readme/screenshot-home-banner.JPG)
 
 - __About section__
-  - The About section briefly introduces the user to the nature of the North Holland dunes.
+  - The About section briefly introduces the user to the nature of the North-Holland dunes.
   - It also explains that you need a ticket to enter.
 
 ![About section](assets/images/readme/screenshot-about-section.JPG)
 
 - __Explore section__
-  - The Explore section shows the user the different locations of the North Holland dunes.
+  - The Explore section shows the user the different locations of the North-Holland dunes.
   - In addition, the various hiking routes can be viewed here by clicking on the button.
 
 ![Explore section](assets/images/readme/screenshot-hiking-routes.JPG)
 
 - __Impressions section__
-  - The impressions section shows three panorama pictures with a slider to show the user the beauty once again.
-  - The user can control the slides himself with the navigation elements or watch the slides change automatically.
+  - The impressions section shows three panorama pictures in a carousel to show the user the beauty once again.
+  - The user can control the slides with the navigation elements or watch the slides change automatically.
 
 ![Impressions section](assets/images/readme/screenshot-contact-section.JPG)
 
 - __Contact section__
   - The Contact section allows the user to get in touch with us, ask questions or book a hiking route with a guide.
   - The user will be asked to submit their first and last name, an email address and a message.
-  - The user must agree to the Privacy Policy.
+  - The user have to agree to the Privacy Policy.
 
 ![Contact section](assets/images/readme/screenshot-contact-section.JPG)
 
 - __Footer section__
-  - The footer section includes a link to the relevant social media site on instagram. More photos of the beauty of the dunes should be shown there and exchanged or linked among each other. The links will open to a new tab to allow easy navigation for the user.
+  - The footer section includes a link to the social media site on instagram. More photos of the beauty of the dunes should be shown there and exchanged or linked among each other. The links will open to a new tab to allow easy navigation for the user.
   - The footer is valuable to the user as it encourages them to keep connected via social media.
   - The footer also contains a link to the Privacy Policy. There, users can read the privacy policy.
   - The footer also contains a copyright.
@@ -81,7 +81,7 @@ This site is intended to give a first impression of the beauty of the North-Holl
 
 ### Features Left to Implement
 
-- Currently, no Hiking Routes appear when you click on the hiking routes button.
+- Currently, no hiking routes appear when you click on the hiking routes button.
 - The contact form does not send any requests yet.
 
 ## Technologies used
@@ -94,7 +94,7 @@ This site is intended to give a first impression of the beauty of the North-Holl
 ### Frameworks - Libraries - Programs Used
 
 - [Bootstrap v5.3.0-alpha3](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
-  - Bootstrap to use prebuilt grid system and components, like buttons and nav bars.
+  - Bootstrap to use prebuilt grid system and components, like buttons, carousels and nav bars.
 - [Font Awesome](https://fontawesome.com/)
   - Font Awesome are used for the instagram icon.
 - [Git](https://git-scm.com/)
